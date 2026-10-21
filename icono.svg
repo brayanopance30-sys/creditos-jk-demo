@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0f766e"/>
+  <rect x="96" y="128" width="320" height="256" rx="32" fill="#fef3c7"/>
+  <path d="M136 200h240M136 256h240M136 312h160" stroke="#0f766e" stroke-width="20" stroke-linecap="round"/>
+  <text x="256" y="112" font-family="system-ui, sans-serif" font-size="88" font-weight="800" fill="#fff" text-anchor="middle">JK</text>
+</svg>
